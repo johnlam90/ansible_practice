@@ -63,7 +63,7 @@
     </pluginRepositories>
     <properties>
         <jenkins.version>1.642.3</jenkins.version>
-        <workflow-cps-plugin.version>2.30</workflow-cps-plugin.version>
+        <workflow-cps-plugin.version>2.65</workflow-cps-plugin.version>
         <git-plugin.version>3.1.0</git-plugin.version>
         <scm-api-plugin.version>2.1.1</scm-api-plugin.version>
         <workflow-scm-step-plugin.version>2.4</workflow-scm-step-plugin.version>
