@@ -19,7 +19,7 @@
   <url>http://wiki.jenkins-ci.org/display/JENKINS/Credentials+Binding+Plugin</url>
   <properties>
     <jenkins.version>1.642.4</jenkins.version>
-    <workflow-cps-plugin.version>2.32</workflow-cps-plugin.version>
+    <workflow-cps-plugin.version>2.94.4</workflow-cps-plugin.version>
     <workflow-step-api-plugin.version>2.10</workflow-step-api-plugin.version>
   </properties>
   <licenses>
